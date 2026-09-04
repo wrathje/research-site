@@ -1,7 +1,7 @@
 title: William Rathje
 description: PhD Candidate UC Berkeley
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 header_pages:
   - research.md
