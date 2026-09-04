@@ -30,14 +30,14 @@ Recent work
 
 Social scientists have been increasingly using word embeddings to measure semantic associations in text by recovering a direction in embedding space for binary oppositions like gender and quantitatively scoring associated terms along it. Transformer models allow for the embedding of text sequences, up to and including entire books. This paper provides a proof-of-concept that blends semantic axis projection with time series analysis. Books are chunked into sequences, embedded with a transformer sentence embedding model, then projected onto several directions. This method successfully recovers several temporal trends characteristic of historical narrative changes over nearly 3000 full texts.
 
-<img src="chr_trends.png" width="500" alt="Alt text">
-<img src="chr_approach.png" width="500" alt="Alt text">
+<img src="chr_trends.png" alt="Alt text">
+<img src="chr_approach.png" alt="Alt text">
 
 *Characterizing the field of natural language processing after LLMs*
 
 
-<img src="nlp.png" width="500" alt="Alt text">
-<img src="nlp2.png" width="500" alt="Alt text"> <img src="nlp3.png" width="500" alt="Alt text">
+<img src="nlp.png"  alt="Alt text">
+<img src="nlp2.png" width="200" alt="Alt text"> <img src="nlp3.png" width="200" alt="Alt text">
 
 
 
