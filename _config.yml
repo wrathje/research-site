@@ -1,0 +1,8 @@
+title: William Rathje
+description: PhD Candidate UC Berkeley
+
+theme: minima
+
+header_pages:
+  - research.md
+  - cv.md
