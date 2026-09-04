@@ -16,8 +16,6 @@ Portions of my dissertation project have received R&Rs or are accepted with mino
 
 I additionally received master's degrees in computer science and sociology from Oxford University, where I studied as a Rhodes Scholar, as well as undergraduate degrees in computer science and English literature.
 
-I am always happy to discuss these and related topics! Please get in touch at wrathje@berkeley.edu
-
 ---
 
 Papers 
