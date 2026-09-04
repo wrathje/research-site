@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Research](research.md)     ·     [CV](cv.md)
+[Recent work](#recent_work)    ·     [CV]()
 
 # Welcome
 
@@ -18,11 +18,7 @@ I additionally received master's degrees in computer science and sociology from 
 
 ---
 
-Papers 
-
----
-
-Recent work
+<h2 id="recent_work"> ***Recent work*** </h2>
 
 *Computational narratology with transformer embeddings*
 
@@ -30,12 +26,5 @@ Social scientists have been increasingly using word embeddings to measure semant
 
 <img src="chr_trends.png" alt="Alt text">
 <img src="chr_approach.png" alt="Alt text">
-
-*Characterizing the field of natural language processing after LLMs*
-
-
-<img src="nlp.png"  alt="Alt text">
-<img src="nlp2.png" width="200" alt="Alt text"> <img src="nlp3.png" width="200" alt="Alt text">
-
 
 
