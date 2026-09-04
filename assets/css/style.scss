@@ -3,8 +3,25 @@
 
 @import "{{ site.theme }}";
 
+/* Make main content start lower */
+section {
+  padding-top: 45px;
+  width: 760px;
+}
 
+/* Bigger page title */
+section h1:first-child {
+  font-size: 2.6em;
+  margin-bottom: 0.6em;
+}
 
+/* Top navigation links */
+.top-nav {
+  display: flex;
+  gap: 28px;
+  margin-bottom: 32px;
+  font-size: 1.05em;
+}
 
 body {
   font-size: 18px;
@@ -14,10 +31,6 @@ body {
 .wrapper {
   width: 1100px;
   max-width: 92%;
-}
-
-section {
-  width: 760px;
 }
 
 .profile-photo {
@@ -30,6 +43,8 @@ section {
 .site-description {
   white-space: pre-line;
 }
+
+
 
 @media (prefers-color-scheme: dark) {
 
