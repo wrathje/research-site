@@ -1,7 +1,7 @@
 title: William Rathje
 description: PhD Candidate UC Berkeley
 
-theme: modernist
+theme: minima
 
 header_pages:
   - research.md
