@@ -28,8 +28,10 @@
     </h1>
 
     {% if site.description %}
-    <p class="site-description">{{ site.description }}</p>    {% endif %}
-
+    <div class="site-description">
+    {{ site.description | newline_to_br }}
+    </div>
+    
   </header>
 
   <section>
