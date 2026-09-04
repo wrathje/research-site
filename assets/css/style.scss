@@ -9,3 +9,26 @@
   object-fit: cover;
   border-radius: 50%;
 }
+
+
+
+body {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.wrapper {
+  width: 1100px;
+  max-width: 92%;
+}
+
+section {
+  width: 760px;
+}
+
+.profile-photo {
+  width: 280px;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 50%;
+}
