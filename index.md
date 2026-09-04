@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Research](research.md) [CV](cv.md)
+[Research](research.md)     |     [CV](cv.md)
 
 # Welcome
 
