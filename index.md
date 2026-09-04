@@ -4,8 +4,6 @@ layout: default
 
 [Recent work](#recent_work)    ·     [CV]()
 
-# Welcome
-
 I am a computational social scientist focused on questions spanning cultural, digital, and comparative/historical sociology. My dissertation approaches the sociology of AI from two connected interdisciplinary angles: 
 
 - Part (1) pursues cultural and archival questions through novel methods for text analysis and natural language processing.
