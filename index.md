@@ -18,7 +18,7 @@ I additionally received master's degrees in computer science and sociology from 
 
 ---
 
-<h2 id="recent_work"> ***Recent work*** </h2>
+<h2 id="recent_work"> Recent work </h2>
 
 *Computational narratology with transformer embeddings*
 
