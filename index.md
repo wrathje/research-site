@@ -20,9 +20,12 @@ I additionally received master's degrees in computer science and sociology from 
 
 *Computational narratology with transformer embeddings*
 
-Social scientists have been increasingly using word embeddings to measure semantic associations in text by recovering a direction in embedding space for binary oppositions like gender and quantitatively scoring associated terms along it. Transformer models allow for the embedding of text sequences, up to and including entire books. This paper provides a proof-of-concept that blends semantic axis projection with time series analysis. Books are chunked into sequences, embedded with a transformer sentence embedding model, then projected onto several directions. This method successfully recovers several temporal trends characteristic of historical narrative changes over nearly 3000 full texts.
+Social scientists have increasingly turned to word embeddings to measure semantic associations in text by recovering a direction in embedding space for binary oppositions like gender and quantitatively scoring associated terms along it. Transformer models allow for the embedding of text sequences, up to and including entire books. This paper provides a proof-of-concept that blends semantic axis projection with time series analysis. Books are chunked into sequences, embedded with a transformer sentence embedding model, then projected onto several directions. 
+
+<img src="chr_approach.png" alt="Alt text">
+
+This method successfully recovers several temporal trends characteristic of historical narrative changes over nearly 3000 full texts. For instance, the transformations below across 19th Century prose:
 
 <img src="chr_trends.png" alt="Alt text">
-<img src="chr_approach.png" alt="Alt text">
 
 
