@@ -2,9 +2,11 @@
 layout: default
 ---
 
+<!--
 <div class="top-nav">
   <a href="#recent_work">Recent work</a>
 </div>
+-->
 
 I am a computational social scientist focused on questions spanning cultural, digital, and comparative/historical sociology. My dissertation approaches the sociology of AI from two connected interdisciplinary angles: 
 
