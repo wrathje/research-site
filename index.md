@@ -12,7 +12,7 @@ I am a computational social scientist focused on questions spanning cultural, di
 
 Portions of my dissertation project have received R&Rs or are accepted with minor revisions at venues such as Sociological Methods and Research and History and Philosophy of the Life Sciences. My work has been been published in venues such as Computational Humanities Research and the ACM AI Ethics and Society Proceedings.
 
-I additionally received master's degrees in computer science and sociology from Oxford University, where I studied as a Rhodes Scholar, as well as undergraduate degrees in computer science and English literature.
+I additionally received master's degrees in computer science and sociology from Oxford University, where I studied as a Rhodes Scholar, as well as undergraduate degrees in computer science and English literature. I have also interned with Microsoft Research as a PhD intern in computational social science.
 
 ---
 
