@@ -17,7 +17,7 @@ Portions of my dissertation project have received R&Rs or are accepted with mino
 I additionally received master's degrees in computer science and sociology from Oxford University, where I studied as a Rhodes Scholar, as well as undergraduate degrees in computer science and English literature. I have also interned with Microsoft Research as a PhD intern in computational social science.
 
 ---
-
+<!--
 <h2 id="recent_work"> Recent work </h2>
 
 *Computational narratology with transformer embeddings*
@@ -29,5 +29,7 @@ Social scientists have increasingly turned to word embeddings to measure semanti
 This method successfully recovers several temporal trends characteristic of historical narrative changes over nearly 3000 full texts. For instance, the transformations below across 19th Century prose:
 
 <img src="chr_trends.png" alt="Alt text">
+
+-->
 
 
